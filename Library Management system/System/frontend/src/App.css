@@ -1,0 +1,32 @@
+
+
+/* Header Styling */
+.app-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Pushes title to the left and nav to the right */
+    background-color: #0056b3;
+    color: white;
+    padding: 10px 20px;
+}
+
+.header-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    gap: 15px; /* Adds spacing between links */
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}

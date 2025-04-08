@@ -1,0 +1,8 @@
+Firstly run the backend and setup the mysql DB
+
+First --> npm install
+second-->node server.js
+
+After the displaying connected Mysql...
+
+Run the frontend..
